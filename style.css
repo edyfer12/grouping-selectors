@@ -5,7 +5,9 @@
 }
 
 /* Add a CSS Rule for the first element unique to the second element */
-.first{
+.first {
     color:white;
     background-color: black;
 }
+
+/* Add a CSS rule for the second element unique to the first element *
