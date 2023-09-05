@@ -10,4 +10,7 @@
     background-color: black;
 }
 
-/* Add a CSS rule for the second element unique to the first element *
+/* Add a CSS rule for the second element unique to the first element */
+.second {
+    background-color: yellow;
+}
