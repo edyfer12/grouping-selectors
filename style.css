@@ -1,4 +1,4 @@
-/* Add common style rule to all HTML elements */
+/* Stylize the HTML elements with same CSS rule with unique class names */
 .click {
     font-size: 28px;
     font: Helvetica, "Times New Roman", sans-serif;
