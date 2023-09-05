@@ -1,5 +1,5 @@
 /* Stylize the HTML elements with same CSS rule with unique class names */
-.click {
+.first, .second {
     font-size: 28px;
     font: Helvetica, "Times New Roman", sans-serif;
 }
